@@ -1,4 +1,4 @@
-const capitalize = require("./capitalize/capitalize")
+const capitalize = require("./capitalize")
 
 
 describe("capitalize", () => {
